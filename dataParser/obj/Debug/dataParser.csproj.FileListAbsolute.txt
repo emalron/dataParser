@@ -1,0 +1,14 @@
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\bin\Debug\dataParser.exe.config
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\bin\Debug\dataParser.exe
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\bin\Debug\dataParser.pdb
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.csprojAssemblyReference.cache
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.Form1.resources
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.Properties.Resources.resources
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.csproj.GenerateResource.cache
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.csproj.CoreCompileInputs.cache
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.exe
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.pdb
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\bin\Debug\dataParser.exe.manifest
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\bin\Debug\dataParser.application
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.exe.manifest
+C:\Users\Emalron\Documents\Visual Studio 2017\Projects\dataParser\dataParser\obj\Debug\dataParser.application
